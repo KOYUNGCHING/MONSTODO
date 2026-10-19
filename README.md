@@ -1,4 +1,4 @@
-# MONSTODO — 小怪獸待辦夥伴
+# MONSTODO — 小怪獸待辦
 
 繁體中文的單頁任務管理工具，依需求規格書實作。HTML、CSS、原生 JavaScript、SVG 與所有功能都整合在 `index.html`，不使用外部套件、字型、圖片、API Key 或後端。
 
